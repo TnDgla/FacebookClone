@@ -77,7 +77,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Next.js Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0)
   2. Design the homepage layout, including the sidebar, navbar, and feed sections.
      - **Reading:** [Tailwind CSS Components](https://tailwindcss.com/docs/components)
-     - **Video:** [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+     - **Video:** [Tailwind CSS Crash Course](https://www.geeksforgeeks.org/tailwind-css/)
 
 - **Deliverables:**
   - Basic project structure with a styled homepage layout.
@@ -89,10 +89,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Install and configure **NextAuth.js** for Google login.
      - **Reading:** [NextAuth.js Documentation](https://next-auth.js.org/)
-     - **Video:** [NextAuth.js Setup](https://www.youtube.com/watch?v=JkrHqNIEXLg)
+     - **Video:** [NextAuth.js Setup](https://www.youtube.com/watch?v=2JnEq3ZmLH0&t=21s)
   2. Create a login page and integrate Google authentication.
      - **Reading:** [Google OAuth Setup](https://developers.google.com/identity/protocols/oauth2)
-     - **Video:** [Google OAuth Tutorial](https://www.youtube.com/watch?v=7Jr6f6Gu2vA)
+     - **Video:** [Google OAuth Tutorial](https://www.youtube.com/watch?v=VZH_lGxqFYU)
 
 - **Deliverables:**
   - Functional login/logout system.
@@ -104,10 +104,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Configure **Firebase** for real-time database and storage.
      - **Reading:** [Firebase Realtime Database](https://firebase.google.com/docs/database)
-     - **Video:** [Firebase Setup Guide](https://www.youtube.com/watch?v=BOZfhUcNiqk)
+     - **Video:** [Firebase Setup Guide](https://www.youtube.com/watch?v=pP7quzFmWBY)
   2. Implement "Create Post" functionality with text and image uploads.
      - **Reading:** [Firebase Storage Guide](https://firebase.google.com/docs/storage)
-     - **Video:** [Uploading Files to Firebase](https://www.youtube.com/watch?v=gkTJ0Dxk3OM)
+     - **Video:** [Uploading Files to Firebase](https://www.youtube.com/watch?v=fgdpvwEWJ9M&t=1644s)
 
 - **Deliverables:**
   - Users can create posts with text and images.
@@ -118,11 +118,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Enable post interactions and real-time updates.
 - **Tasks:**
   1. Display posts in descending order of timestamps.
-     - **Reading:** [Firebase Querying Data](https://firebase.google.com/docs/database/queries)
-     - **Video:** [Firebase Query Examples](https://www.youtube.com/watch?v=keJNDvkeE0I)
+     - **Reading:** [Firebase Querying Data](https://www.tutorialspoint.com/firebase/firebase_queries.htm)
+     - **Video:** [Firebase Query Examples](https://www.youtube.com/watch?v=Ofux_4c94FI)
   2. Allow users to delete their own posts.
      - **Reading:** [Firebase Security Rules](https://firebase.google.com/docs/rules)
-     - **Video:** [Securing Firebase Data](https://www.youtube.com/watch?v=ml6cT4AZdqI)
+     - **Video:** [Securing Firebase Data](https://www.youtube.com/watch?v=eW5MdE3ZcAw&t=605s)
 
 - **Deliverables:**
   - Real-time post interactions and secure deletion functionality.
@@ -134,7 +134,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Deploy the app on **Vercel**.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)
-     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=4wD00RT6d-g)
+     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=b2bIdtSwDhc&t=393s)
   2. Add final design tweaks and ensure cross-browser compatibility.
      - **Reading:** [CSS Best Practices](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks)
      - **Video:** [Responsive Design](https://www.youtube.com/watch?v=srvUrASNj0s)
